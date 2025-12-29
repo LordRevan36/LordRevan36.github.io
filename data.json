@@ -1,0 +1,59 @@
+{
+    "Clank!": {
+        "name": "Clank!",
+        "description": "A deck-building adventure game where players explore a dungeon, collect treasures, and avoid the dragon's wrath.",
+        "image": "clank.jpg",
+        "side_image": "clank_side.jpg",
+        "minPlayers": 2,
+        "maxPlayers": 6,
+        "playtime": 120,
+        "age": 10,
+        "mechanics": [
+            "Deck Building",
+            "Push Your Luck",
+            "Variable Player Powers"
+        ]
+    },
+    "It's a Wonderful World": {
+        "name": "It's a Wonderful World",
+        "description": "A card drafting and engine-building game set in a futuristic world where players compete to build the most prosperous empire.",
+        "image": "its_a_wonderful_world.png",
+        "minPlayers": 1,
+        "maxPlayers": 5,
+        "playtime": 60,
+        "age": 14,
+        "mechanics": [
+            "Card Drafting",
+            "Engine Building",
+            "Variable Player Powers",
+            "Strategy"
+        ]
+    },
+    "Smallworld": {
+        "name": "Smallworld",
+        "description": "A fantasy-themed board game where players vie for control of a world that is simply too small to accommodate them all.",
+        "image": "smallworld.png",
+        "minPlayers": 2,
+        "maxPlayers": 5,
+        "playtime": 90,
+        "age": 8,
+        "mechanics": [
+            "Area Control",
+            "Variable Player Powers"
+        ]
+    },
+    "Roll for the Galaxy": {
+        "name": "Roll for the Galaxy",
+        "description": "A dice game of space empire building where players roll dice to develop new technologies, settle worlds, and produce goods.",
+        "image": "roll_for_the_galaxy.png",
+        "minPlayers": 2,
+        "maxPlayers": 5,
+        "playtime": 90,
+        "age": 14,
+        "mechanics": [
+            "Dice Rolling",
+            "Engine Building",
+            "Strategy"
+        ]
+    }
+}

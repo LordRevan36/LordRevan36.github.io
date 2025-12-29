@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Board Games</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="header topbar glass">
+        <h1>Board Games</h1>
+        <button type="button" id="themeToggle" class="button glass">Toggle Theme</button>
+
+    </div>
+    <div class="main-body">
+        <div class="panel glass">
+            <div class="panel-head">
+                <h2>Set Display</h2>
+            </div>
+            <form action="">
+                <label class="form-control">
+                    <input type="radio" name="radio" checked />
+                    Condensed
+                </label>
+
+                <label class="form-control">
+                    <input type="radio" name="radio" />
+                    Cards
+                </label>
+            </form>
+        </div>
+        <div id="gamesDisplay"></div>
+    </div>
+    <footer></footer>
+    <div id="toast" class="toast"></div>
+</body>
+<script type="module" src="script.js"></script>
+
+</html>
